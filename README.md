@@ -37,10 +37,10 @@ Moreover, a [notebook](https://www.kaggle.com/polavr/exploring-the-data) is incl
 ## How to run
 There are several free online pages where you can run a Jupyter notebook:
 * Main notebook:
- - Binder: [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/binary_weather_classification/master?filepath=binary-weather-classification.ipynb)
+ - Binder: [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/binary_weather_classification/main?filepath=binary-weather-classification.ipynb)
  - Kaggle: https://www.kaggle.com/polavr/binary-weather-classification (you need to have an account)
 * Exploring the data:
- - Binder:  [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/binary-weather-classification/mai)
+ - Binder:  [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/binary-weather-classification/main)
  - Kaggle: https://www.kaggle.com/polavr/exploring-the-data
  
 Of couse, you can always download and run on your computer locally.

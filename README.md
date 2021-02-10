@@ -13,9 +13,6 @@
   <ol>
     <li>
      <a href="#about-the-project">About The Project</a>
-     <ul>
-        <li><a href="#download-the-data">Download the data</a></li>
-      </ul>
    </li>
     <li><a href="#dataset">Dataset</a></li>
     <li><a href="#how-to-run">How to run</a></li>
@@ -37,13 +34,10 @@ You can find the dataset here: https://www.kaggle.com/polavr/twoclass-weather-cl
 
 Moreover, a [notebook](https://www.kaggle.com/polavr/exploring-the-data) is included in order to show how to explore the dataset. 
 
-### Download the data
-In Colab:
-
 ## How to run
 There are several free online pages where you can run a Jupyter notebook:
 * Main notebook:
- - Binder: [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/binary-weather-classification/main)
+ - Binder: [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/paula-rj.github.io/main?filepath=binary-weather-classification.ipynb)
  - Kaggle: https://www.kaggle.com/polavr/binary-weather-classification (you need to have an account)
 * Exploring the data:
  - Binder:  [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/binary-weather-classification/mai)

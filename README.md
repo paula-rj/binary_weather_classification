@@ -1,6 +1,6 @@
 # Binary Weather Classification
 
- <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Weather_icon_-_sunny_to_cloudy.svg" width="300" height="300"/>
+ <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Weather_icon_-_sunny_to_cloudy.svg" width="350" height="350"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
@@ -36,12 +36,12 @@ Moreover, a [notebook](https://www.kaggle.com/polavr/exploring-the-data) is incl
 
 ## How to run
 There are several free online pages where you can run a Jupyter notebook:
-* Main notebook:
- - Binder: [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/binary_weather_classification/main?filepath=binary-weather-classification.ipynb)
- - Kaggle: https://www.kaggle.com/polavr/binary-weather-classification (you need to have an account)
-* Exploring the data:
- - Binder:  [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/binary-weather-classification/main)
- - Kaggle: https://www.kaggle.com/polavr/exploring-the-data
+- Main notebook:
+  - Binder: [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/binary_weather_classification/main?filepath=binary-weather-classification.ipynb)
+  - Kaggle: https://www.kaggle.com/polavr/binary-weather-classification (you need to have an account)
+- Exploring the data:
+  - Binder:  [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/binary_weather_classification/main?filepath=exploring-the-data.ipynb)
+  - Kaggle: https://www.kaggle.com/polavr/exploring-the-data
  
 Of couse, you can always download and run on your computer locally.
 

@@ -43,11 +43,11 @@ In Colab:
 ## How to run
 There are several free online pages where you can run a Jupyter notebook:
 * Main notebook:
- * Binder: [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/binary-weather-classification/master)
- * Kaggle: https://www.kaggle.com/polavr/binary-weather-classification (you need to have an account)
+ - Binder: [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/binary-weather-classification/main)
+ - Kaggle: https://www.kaggle.com/polavr/binary-weather-classification (you need to have an account)
 * Exploring the data:
- * Binder:  [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/binary-weather-classification/master)
- * Kaggle: https://www.kaggle.com/polavr/exploring-the-data
+ - Binder:  [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/paula-rj/binary-weather-classification/mai)
+ - Kaggle: https://www.kaggle.com/polavr/exploring-the-data
  
 Of couse, you can always download and run on your computer locally.
 
